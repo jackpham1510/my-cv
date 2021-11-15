@@ -4,4 +4,4 @@ This is one of my CV collection. If you feel interesting, don't hesitate to cont
 
 ## My CV
 
-[Fullstack_Pham-Quan-Tien-Dung.pdf](./Fullstack_Pham-Quan-Tien-Dung.pdf)
+[Fullstack_Dzung-Pham.pdf](./Fullstack_Dzung-Pham.pdf)
